@@ -473,7 +473,7 @@
 //task10
 // function dashed(a) {
 //     let res = '';
-//     let vowels = 'AEIOUaeiou';
+//     let vowels = 'AEIOUaeiou';a
 //     for (let i = 0; i < a.length; i++) {
 //         if (vowels.includes(a[i])) {
 //             res += '-' + a[i] + '-';
